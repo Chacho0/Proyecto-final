@@ -1,0 +1,12 @@
+C:\Users\H2001H2005\Desktop\Proyecto\Shared\bin\Debug\net7.0\Proyecto.Shared.deps.json
+C:\Users\H2001H2005\Desktop\Proyecto\Shared\bin\Debug\net7.0\Proyecto.Shared.dll
+C:\Users\H2001H2005\Desktop\Proyecto\Shared\bin\Debug\net7.0\Proyecto.Shared.pdb
+C:\Users\H2001H2005\Desktop\Proyecto\Shared\obj\Debug\net7.0\Proyecto.Shared.csproj.AssemblyReference.cache
+C:\Users\H2001H2005\Desktop\Proyecto\Shared\obj\Debug\net7.0\Proyecto.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\H2001H2005\Desktop\Proyecto\Shared\obj\Debug\net7.0\Proyecto.Shared.AssemblyInfoInputs.cache
+C:\Users\H2001H2005\Desktop\Proyecto\Shared\obj\Debug\net7.0\Proyecto.Shared.AssemblyInfo.cs
+C:\Users\H2001H2005\Desktop\Proyecto\Shared\obj\Debug\net7.0\Proyecto.Shared.csproj.CoreCompileInputs.cache
+C:\Users\H2001H2005\Desktop\Proyecto\Shared\obj\Debug\net7.0\Proyecto.Shared.dll
+C:\Users\H2001H2005\Desktop\Proyecto\Shared\obj\Debug\net7.0\refint\Proyecto.Shared.dll
+C:\Users\H2001H2005\Desktop\Proyecto\Shared\obj\Debug\net7.0\Proyecto.Shared.pdb
+C:\Users\H2001H2005\Desktop\Proyecto\Shared\obj\Debug\net7.0\ref\Proyecto.Shared.dll

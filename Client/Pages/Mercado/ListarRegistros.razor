@@ -1,0 +1,82 @@
+@page "/Listar"
+<h1>Ventas de productos</h1>
+<th class="btn btn-primary" @onclick="Regreso">Regresar</th>
+<br>
+<div class="row mt-2">
+    <div class="col">
+        <div class="form-group">
+            <label for="TxtNombre del Cliente">Nombre del Cliente</label>
+            <input class="form-control" type="text" name="Txtproducto" id="Txtproducto">
+        </div>
+    </div>
+    <div class="col ">
+        <div class="form-group">
+            <label for="txtApellido">Nombre</label>
+            <input class="form-control" type="text" name="txtApellido" id="txtApellido">
+        </div>
+    </div>
+    <div class="col ">
+        <div class="form-group">
+            <label for="Txtcosto">Costo</label>
+            <input class="form-control" type="text" name="Txtcosto" id="Txtcosto">
+        </div>
+    </div>
+    <div class="col ">
+        <div class="form-group">
+            <label for="Txtnombre">Nombre</label>
+            <input class="form-control" type="text" name="Txtnombre" id="Txtnombre">
+        </div>
+    </div>
+    <div class="col ">
+        <div class="form-group">
+            <label for="TxtCodigo">Codigo</label>
+            <input class="form-control" type="text" name="TxtCodigo" id="TxtCodigo">
+        </div>
+    </div>
+     <div class="col ">
+        <div class="form-group">
+            <label for="TxtFecha">Fecha</label>
+            <input class="form-control" type="text" name="TxtFecha" id="TxtFecha">
+        </div>
+    </div>
+    <div class="col ">
+        <div class="form-group">
+            <label for="TxtCantidad">Cantidad</label>
+            <input class="form-control" type="text" name="TxtCantidad" id="TxtCantidad">
+        </div>
+    </div>
+</div>
+
+     
+        
+       
+         <button class="btn btn-primary">Enviar</button>
+   
+
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Nombre </th>
+                <th>Codigo</th>
+                <th>Costo</th>
+                <th>Fecha</th>
+                <th>Nombre del Cliente</th>
+                <th>Cantidad</th>
+                 <th>Total</th>
+            </tr>
+        </thead>
+        <tbody>
+           
+        </tbody>
+    </table>
+   
+
+    @code{
+        public void Regreso()
+    {
+    
+    Cambio.NavigateTo("/Vista");
+
+}
+    }
